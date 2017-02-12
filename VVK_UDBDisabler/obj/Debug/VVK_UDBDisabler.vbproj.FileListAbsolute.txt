@@ -1,0 +1,8 @@
+e:\vivek\documents\visual studio 2012\Projects\VVK_UDBDisabler\VVK_UDBDisabler\bin\Debug\VVK_UDBDisabler.dll
+e:\vivek\documents\visual studio 2012\Projects\VVK_UDBDisabler\VVK_UDBDisabler\bin\Debug\VVK_UDBDisabler.pdb
+e:\vivek\documents\visual studio 2012\Projects\VVK_UDBDisabler\VVK_UDBDisabler\bin\Debug\VVK_UDBDisabler.xml
+e:\vivek\documents\visual studio 2012\Projects\VVK_UDBDisabler\VVK_UDBDisabler\obj\Debug\VVK_UDBDisabler.Resources.resources
+e:\vivek\documents\visual studio 2012\Projects\VVK_UDBDisabler\VVK_UDBDisabler\obj\Debug\VVK_UDBDisabler.vbproj.GenerateResource.Cache
+e:\vivek\documents\visual studio 2012\Projects\VVK_UDBDisabler\VVK_UDBDisabler\obj\Debug\VVK_UDBDisabler.dll
+e:\vivek\documents\visual studio 2012\Projects\VVK_UDBDisabler\VVK_UDBDisabler\obj\Debug\VVK_UDBDisabler.xml
+e:\vivek\documents\visual studio 2012\Projects\VVK_UDBDisabler\VVK_UDBDisabler\obj\Debug\VVK_UDBDisabler.pdb
